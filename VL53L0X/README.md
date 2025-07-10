@@ -68,3 +68,7 @@ Quando um objeto é detectado a menos de **10 cm**, o sistema:
    ```bash
    git clone https://github.com/seu-usuario/projeto-vl53l0x-pico.git
    cd projeto-vl53l0x-pico
+
+## 📄 Licença
+
+Todos os direitos reservados © 2025 [Francisco Igor](https://github.com/igordev23/Proximidade_VL53L0X)
